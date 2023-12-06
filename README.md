@@ -1,1 +1,7 @@
-# savannah-going-to-docker
+# Savannah's joining Docker
+
+```docker
+docker run -it savannahostrowski/isjoiningdocker
+```
+
+![](Docker.gif)
