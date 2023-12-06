@@ -50,7 +50,7 @@ func main() {
 
 	desc := lipgloss.JoinVertical(lipgloss.Left,
 		descStyle.Render("Savannah is joining Docker! 🐳"),
-		infoStyle.Render("Staff Product Manager for the Docker runtime and CLI"),
+		infoStyle.Render("Staff Product Manager for the Docker runtime"),
 	)
 
 	row := lipgloss.JoinHorizontal(lipgloss.Top, title.String(), desc)
