@@ -1,4 +1,6 @@
-# Savannah's joining Docker
+# Savannah's joining Docker! 🐳
+
+I'm joining Docker as a Staff Product Manager. I'm the PM for the Docker runtime!
 
 ```docker
 docker run -it savannahostrowski/isjoiningdocker
