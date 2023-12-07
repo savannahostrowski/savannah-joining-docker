@@ -1,5 +1,7 @@
 # Savannah's joining Docker! 🐳
 
+![A job announcement: Savannah is going to Docker as a Staff PM for Docker runtime](Docker.gif)
+
 Try it out yourself:
 ```docker
 docker run -it savannahostrowski/isjoiningdocker
